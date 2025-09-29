@@ -37,6 +37,8 @@ Agregar otros vehículos que pueda usar Luke para viajar, en vez del Alambique V
 
 Crear un nuevo destino turístico.
 
+-------------------------------------------------------------------------------------------------------------------------
+
 ## Parte 2 (Los autos Locos)
 
 Los autos locos quieren participar en carreras alrededor del mundo.
